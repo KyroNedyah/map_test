@@ -1,0 +1,8 @@
+{"city_list":[
+	{ "name": "Central"	, "pos": {"x": 300, "y": 300}},
+	{ "name": "City"	, "pos": {"x": 350, "y": 450}},
+	{ "name": "Outpost"	, "pos": {"x": 100, "y": 500}},
+	{ "name": "Settlement"	, "pos": {"x": 400, "y": 140}},
+	{ "name": "Harbor"	, "pos": {"x": 330, "y": 470}},
+	{ "name": "Tradepost"	, "pos": {"x": 215, "y": 375}}
+]}
